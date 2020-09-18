@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **antomor/antomor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+- 🔭 I’m currently working with **Ermes - Intelligent Anti Phishing**
+- 🌱 I’m currently learning k8s, serverless, ML and everything I can get in touch with
+- 👯 I’m looking to collaborate on OpenSource projects
+- 💬 Ask me about Javascript, Typescript, Python, C#, API, docker
+- 📫 How to reach me: dev@antomor.com 
+
+You can find more on [antomor.com](https://antomor.com)
