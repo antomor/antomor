@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-- 🔭 I’m currently working with **Ermes - Intelligent Anti Phishing**
+- 🔭 I’m currently working at [Ermes - Intelligent Anti Phishing](https://ermes.company) (let me know if you wanna join us too 😎)
 - 🌱 I’m currently learning k8s, serverless, ML and everything I can get in touch with
 - 👯 I’m looking to collaborate on OpenSource projects
 - 💬 Ask me about Javascript, Typescript, Python, C#, API, docker
-- 📫 How to reach me: dev@antomor.com 
+- 🔐 Passionate about software security
+- 🐕 Dad of Achille and Rey
+- ⚡ Leisures: 🏃‍♂️ 🧘‍♂️ 🥊 🏔 📖
+- 📫 How to reach me: dev@antomor.com
 
 You can find more on [antomor.com](https://antomor.com)
