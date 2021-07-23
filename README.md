@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-- 🔭 I’m currently working at [IOV Labs](https://www.iovlabs.org/) (let me know if you wanna join us too 😎)
+- 🔭 I’m currently working at [IOV Labs](https://www.iovlabs.org/) (let me know if you wanna join us 😎)
 - 🌱 I’m currently learning blockchain, k8s, serverless, ML and everything I can get in touch with
 - 👯 I’m looking to collaborate on OpenSource projects
 - 💬 Ask me about Javascript, Typescript, Python, C#, API, docker
